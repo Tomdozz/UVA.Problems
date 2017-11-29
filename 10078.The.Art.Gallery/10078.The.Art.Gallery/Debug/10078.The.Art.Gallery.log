@@ -1,0 +1,4 @@
+﻿  10078.The.Art.Gallery.cpp
+c:\users\tom\onedrive\dokument\github\10078.the.art.gallery\10078.the.art.gallery\10078.the.art.gallery.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  10078.The.Art.Gallery.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\10078.The.Art.Gallery\Debug\10078.The.Art.Gallery.exe
+  10078.The.Art.Gallery.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\10078.The.Art.Gallery\Debug\10078.The.Art.Gallery.pdb (Full PDB)

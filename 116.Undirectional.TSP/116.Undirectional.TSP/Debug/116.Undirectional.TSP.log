@@ -1,0 +1,9 @@
+﻿  116.Undirectional.TSP.cpp
+c:\users\tom\onedrive\dokument\github\116.undirectional.tsp\116.undirectional.tsp\116.undirectional.tsp.cpp(6): warning C4005: 'INT_MAX': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits.h(35): note: see previous definition of 'INT_MAX'
+c:\users\tom\onedrive\dokument\github\116.undirectional.tsp\116.undirectional.tsp\116.undirectional.tsp.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\116.undirectional.tsp\116.undirectional.tsp\116.undirectional.tsp.cpp(74): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\tom\onedrive\dokument\github\116.undirectional.tsp\116.undirectional.tsp\116.undirectional.tsp.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\116.undirectional.tsp\116.undirectional.tsp\116.undirectional.tsp.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  116.Undirectional.TSP.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\116.Undirectional.TSP\Debug\116.Undirectional.TSP.exe
+  116.Undirectional.TSP.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\116.Undirectional.TSP\Debug\116.Undirectional.TSP.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  185.Roman.numerals.cpp
+c:\users\tom\onedrive\dokument\github\185.roman.numerals\185.roman.numerals\185.roman.numerals.cpp(73): warning C4715: 'Val': not all control paths return a value
+  185.Roman.numerals.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\185.Roman.numerals\Debug\185.Roman.numerals.exe
+  185.Roman.numerals.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\185.Roman.numerals\Debug\185.Roman.numerals.pdb (Full PDB)

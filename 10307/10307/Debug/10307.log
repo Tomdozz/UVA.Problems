@@ -1,0 +1,10 @@
+﻿  10307.cpp
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(163): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\tom\onedrive\dokument\github\10307\10307\10307.cpp(226): warning C4018: '<': signed/unsigned mismatch
+  10307.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\10307\Debug\10307.exe
+  10307.vcxproj -> C:\Users\Tom\OneDrive\Dokument\GitHub\10307\Debug\10307.pdb (Full PDB)
